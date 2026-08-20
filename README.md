@@ -1,1 +1,5 @@
 # analyzing-the-indonesian-supermarket-business
+
+
+spreadsheets = "https://docs.google.com/spreadsheets/d/1Xo1BkLLwaZT9xUWaIvFo5X2JQRGPYvpnD44nhW5ZbHg/edit?usp=sharing"
+dataStudio = "https://datastudio.google.com/s/mhXNZwcdw_Q"
