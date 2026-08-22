@@ -77,4 +77,4 @@ Gradient Boosting achieved the best overall performance, with the lowest RMSE of
 
 ## Author
 
-**Muchammad Wildan Alkautsar** — Data Analyst
+**Muchammad Wildan Alkautsar** - Data Analyst
