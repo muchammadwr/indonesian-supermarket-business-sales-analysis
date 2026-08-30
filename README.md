@@ -57,13 +57,18 @@ Raw Data → Data Cleaning → Data Analysis → Dashboard
 
 ## Deliverables
 
-**Dashboard**
-
-[Looker Studio Dashboard]("https://datastudio.google.com/reporting/bd8c4a34-bf0b-47e3-a728-d2ec0e7424bc)
+### Google Data Studio Visualization
+Link: https://datastudio.google.com/s/mYGcIInQpuA
 
 <img src="./images/dashboard.png" width="100%">
 
-**Predictive Modeling**
+### Brief Project
+Link: https://docs.google.com/document/d/1ENzdogq8f2CabRVvsLWfrCvI3xdWz33cZfSSKAIrAOU/edit?usp=sharing
+
+### Presentation Slides
+Link: https://docs.google.com/presentation/d/1ZdFLOXARz3iX8MGLO6Z_EeDkSZvVzQeK-7Gkdu6z7ak/edit?usp=sharing
+
+### Predictive Modeling
 
 The modeling process uses `keuntungan` as the target variable and compares three regression algorithms. Model performance is evaluated using RMSE, MAE, and R² through the **Test & Score** and **Predictions** widgets in Orange.
 
