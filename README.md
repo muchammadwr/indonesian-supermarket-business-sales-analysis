@@ -37,7 +37,7 @@ The dataset was cleaned in Google Sheets by:
 
 ## Project Workflow
 
-```text
+```
 Raw Data → Data Cleaning → Data Analysis → Dashboard
                                 ↓
                      Predictive Modeling
