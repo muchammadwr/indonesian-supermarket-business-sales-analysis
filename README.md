@@ -55,6 +55,28 @@ Raw Data → Data Cleaning → Data Analysis → Dashboard
 - **Peak sales month:** **November 2017** recorded the highest monthly sales, reaching approximately **IDR 1.8 billion**.
 - **Best prediction model:** Gradient Boosting achieved the best overall performance, with the lowest RMSE of 1,764,919.626 and the highest R² of 0.764. Meanwhile, Random Forest recorded the lowest MAE of 331,784.530, indicating the smallest average absolute prediction error.
 
+## Recommendations & Actions
+
+### Recommendations
+
+* Strengthen sales strategies toward the end of the year, particularly before November, while investigating the factors behind the 2015 decline.
+* Prioritize inventory, marketing, and distribution in the Central region while developing targeted campaigns to improve performance in lower-performing regions.
+* Maintain Technology as the leading category while promoting other categories through bundles and cross-selling.
+* Use Balikpapan as a benchmark to identify successful customer, product, and promotional patterns that can be applied to other cities.
+* Optimize logistics around Standard Class because it is the shipping method most frequently selected by customers.
+* Use Gradient Boosting as the primary profit-prediction model because it achieved the lowest RMSE and highest R².
+
+### Actions
+
+* Prepare inventory and marketing campaigns two to three months before November to capture peak demand.
+* Analyze the causes of the 2015 sales decline by region, category, city, and customer segment.
+* Allocate more stock and promotional budget to the Central region and Balikpapan based on their strong performance.
+* Protect Technology product availability and introduce bundled offers with lower-performing categories.
+* Review Standard Class delivery costs, speed, and service quality to maintain customer satisfaction while controlling expenses.
+* Deploy Gradient Boosting to estimate future profit and retrain it regularly with new transaction data.
+* Monitor actual versus predicted profit through a dashboard. The current model estimates **IDR 819.20 million**, compared with the actual actual **IDR 888.81 million**, representing an underprediction of approximately **7.83%**.
+
+
 ## Deliverables
 
 ### Google Data Studio Visualization
