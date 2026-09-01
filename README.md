@@ -37,12 +37,20 @@ The dataset was cleaned in Google Sheets by:
 
 ## Project Workflow
 
-```
-Raw Data → Data Cleaning → Data Analysis → Dashboard
-                                ↓
-                     Predictive Modeling
-                                ↓
-                  Insights and Recommendations
+```mermaid
+flowchart TD
+    A([Raw Data]) --> B([Data Cleaning])
+    B --> C([Data Analysis])
+    C --> D([Dashboard])
+    C --> E([Predictive Modeling])
+    D --> F([Insights and Recommendations])
+    E --> F
+
+    classDef process fill:#E8F1FF,stroke:#2563EB,stroke-width:2px,color:#111827
+    classDef output fill:#DCFCE7,stroke:#16A34A,stroke-width:2px,color:#111827
+
+    class A,B,C,D,E process
+    class F output
 ```
 
 ## Key Insights
