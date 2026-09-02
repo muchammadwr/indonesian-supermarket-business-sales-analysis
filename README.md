@@ -100,7 +100,7 @@ Link: https://docs.google.com/presentation/d/1ZdFLOXARz3iX8MGLO6Z_EeDkSZvVzQeK-7
 
 ### Predictive Modeling
 
-The modeling process uses `keuntungan` as the target variable and compares three regression algorithms. Model performance is evaluated using RMSE, MAE, and R² through the **Test & Score** and **Predictions** widgets in Orange.
+The modeling process uses `profit` as the target variable and compares three regression algorithms. Model performance is evaluated using RMSE, MAE, and R² through the **Test & Score** and **Predictions** widgets in Orange.
 
 | Model             |          RMSE |         MAE |    R² |
 | ----------------- | ------------: | ----------: | ----: |
